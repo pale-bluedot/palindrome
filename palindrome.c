@@ -1,3 +1,12 @@
+/**********************************************************************************
+File name: time_calculator.py
+Author: Johan Andrade
+Date created: 02 / 23 / 2021
+Date last modified  08 / 15 / 2021
+Description: The function checks for palindrome words. 
+Refer to README.md for full description.
+**********************************************************************************/
+
 #include <stdio.h>
 #include <string.h>
 
