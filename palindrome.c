@@ -1,5 +1,5 @@
 /**********************************************************************************
-File name: time_calculator.py
+File name: palindrome.c
 Author: Johan Andrade
 Date created: 02 / 23 / 2021
 Date last modified  08 / 15 / 2021
